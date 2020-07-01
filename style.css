@@ -1,10 +1,42 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
 
     font-size: 50px;
+
+}
+h2{
+    font-size: 40px;
 }
 .name{
     color: orange;
+}
+.hlaf width{
+    width: 35%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+    
+}
+img{
+    width: 100%;
+}
+.top banner{
+    background-image: url(complete-web-development-bangla-resources/developer-portfolio/top-banner.png);
+    background-repeat: no-repeat;
+    background-image: url(complete-web-development-bangla-resources/developer-portfolio/dream-bg.png);
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link{
+    text-decoration: none;
+    color: gray;
+    background-image: linear-gradient(45deg, orange, gold);
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 700;
 }
